@@ -1,1 +1,1 @@
-Also used JALEBI: A collaborative code written by our group using CLAUDE Fable: https://github.com/shridharanbaskaran/jalebi
+Also used JALEBI: It is still under work as a collaboration with our group: https://github.com/shridharanbaskaran/jalebi
